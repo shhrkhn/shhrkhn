@@ -11,10 +11,10 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rshaheerkhan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white
 )](https://linkedin.com/in/shaheer-khan-363903301) 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shaheerrrrr&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shhrkhn&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # Statistics:
-![](https://github-readme-stats.vercel.app/api?username=shaheerrrrr&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=shhrkhn&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![LeetCode Stats](https://leetcard.jacoblin.cool/khanshaheer20008?theme=dark&font=Nunito)
 
 ### Random Dev Quote
